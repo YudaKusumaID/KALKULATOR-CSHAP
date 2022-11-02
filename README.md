@@ -1,7 +1,7 @@
 
 # Kalkukator C#
 
-Sebuah kalkulator sederhana yang dibuat menggunakan bahasa C#. Dengan desain yang simple dan sederhana membuatnya mudah untuk di operasikan pada console kode editor.
+Sebuah kalkulator sederhana yang dibuat menggunakan bahasa C#. Dengan desain yang simple dan sederhana membuatnya mudah untuk di operasikan pada console kode editor atau IDE.
 
 ## Features
 
